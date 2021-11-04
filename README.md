@@ -1,2 +1,2 @@
 # Revistas-XII-Coloquio
-Datos y código del trabajo ANÁLISIS DE REDES DE COOPERACIÓN DE LOS COAUTORES DE LOS ARTÍCULOS DE LAS PRINCIPALES REVISTAS CIENTÍFICAS EN ESTADÍSTICA DE AMÉRICA LATINA
+Este repositorio contiene los datos y código del trabajo ANÁLISIS DE REDES DE COOPERACIÓN DE LOS COAUTORES DE LOS ARTÍCULOS DE LAS PRINCIPALES REVISTAS CIENTÍFICAS EN ESTADÍSTICA DE AMÉRICA LATINA presentado en el XII Coloquio Nacional de Estadística, organizado por la Escuela de Estadística de la Universidad Nacional de Colombia, y llevado a cabo entre el 3 y 5 de noviembre de 2021.
